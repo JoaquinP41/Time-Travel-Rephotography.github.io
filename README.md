@@ -7,7 +7,7 @@
 <img src="time-travel-rephotography.gif" width='100%'/>
 </p>
 
-Many historical people were only ever captured by old, faded, black and white photos, that are distorted due to the limitations of early cameras and the passage of time. This paper simulates traveling back in time with a modern camera to rephotograph famous subjects. Unlike conventional image restoration filters which apply independent operations like denoising, colorization, and superresolution, we leverage the StyleGAN2 framework to project old photos into the space of modern high-resolution photos, achieving all of these effects in a unified framework. A unique challenge with this approach is retaining the identity and pose of the subject in the original photo, while discarding the many artifacts frequently seen in low-quality antique photos. Our comparisons to current state-of-the-art restoration filters show significant improvements and compelling results for a variety of important historical people. 
+Time-Travel Rephotography has concluded, thanks for visiting us. 
 <br/>
 
 **Time-Travel Rephotography**
@@ -22,8 +22,7 @@ Many historical people were only ever captured by old, faded, black and white ph
 In SIGGRAPH Asia 2021.
 
 ## Demo
-We provide an easy-to-get-started demo using Google Colab!
-The Colab will allow you to try our method on the sample Abraham Lincoln photo or **your own photos** using Cloud GPUs on Google Colab.
+Time-Travel Rephotography has concluded, thanks for visiting us. 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KZXGkHVhvz2X3ljaCQANC1bDr7OrzDpg?usp=sharing)
 
